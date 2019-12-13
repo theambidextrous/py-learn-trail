@@ -1,23 +1,8 @@
-material: Some learning material here
-material2: Some learning material here
-material3: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
-material: Some learning material here
+<table class="table table-striped" id="tinydet">
+					<thead>
+						<tr>
+							<th><b style="font-weight: 900;">Time of Detection:</b>  <span style="font-weight: 100;">'.dateFormater($date_detected, 'Y-m-d h:i:s a').'</span></th>
+							<th><b style="font-weight: 900;">Additional Information:</b> <span style="font-weight: 100;">N/A</span></th>
+						</tr>
+					</thead>
+					</table>
